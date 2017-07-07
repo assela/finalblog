@@ -1,10 +1,1 @@
-
-Первый проект блог для IT-стажировки
-
-Прогресс можете видеть здесь
-
-
-
-Happy coding!
-
-Samat
+Final version of the blog
